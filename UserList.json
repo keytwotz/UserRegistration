@@ -12,5 +12,12 @@
     "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": false
+  },
+  {
+    "id": "qwert112233",
+    "username": "wolf",
+    "password": "wolf",
+    "expiresAt": "2025-8-8",
+    "allowOffline": false
   }
 ]
