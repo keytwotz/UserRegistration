@@ -19,5 +19,12 @@
     "password": "wolf",
     "expiresAt": "2025-8-8",
     "allowOffline": true
+  },
+  {
+    "id": "26ce9930bc00ae96",
+    "username": "imma",
+    "password": "imma",
+    "expiresAt": "2025-7-15",
+    "allowOffline": false
   }
 ]
