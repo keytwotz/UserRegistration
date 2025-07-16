@@ -5,12 +5,5 @@
     "password": "12345",
     "expiresAt": "2025-08-08",
     "allowOffline": true
-  },
-  {
-    "id": "qwert112233",
-    "username": "wolf",
-    "password": "wolf",
-    "expiresAt": "2025-8-8",
-    "allowOffline": false
   }
 ]
