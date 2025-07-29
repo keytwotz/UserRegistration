@@ -12,5 +12,12 @@
     "password": "4545",
     "expiresAt": "2025-8-1",
     "allowOffline": false
+  },
+  {
+    "id": "147c2a1f5069ace6",
+    "username": "Meows01",
+    "password": "Meows",
+    "expiresAt": "2025-8-5",
+    "allowOffline": false
   }
 ]
