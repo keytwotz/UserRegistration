@@ -19,5 +19,12 @@
     "password": "meows",
     "expiresAt": "2025-9-1",
     "allowOffline": false
+  },
+  {
+    "id": "bf09786d677e8ded",
+    "username": "swammy og",
+    "password": "swammy@18",
+    "expiresAt": "2025-8-20",
+    "allowOffline": false
   }
 ]
