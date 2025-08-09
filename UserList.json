@@ -26,5 +26,12 @@
     "password": "swammy@18",
     "expiresAt": "2025-8-20",
     "allowOffline": false
+  },
+  {
+    "id": "c9ef2bf5748fd03b",
+    "username": "chakua",
+    "password": "chakua",
+    "expiresAt": "2025-8-30",
+    "allowOffline": false
   }
 ]
