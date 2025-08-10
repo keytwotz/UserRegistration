@@ -40,5 +40,12 @@
     "password": "wolftz",
     "expiresAt": "2025-9-9",
     "allowOffline": false
+  },
+  {
+    "id": "ed87cfd0eac71f0e",
+    "username": "deinfluencer",
+    "password": "josh",
+    "expiresAt": "2025-8-9",
+    "allowOffline": false
   }
 ]
