@@ -33,12 +33,5 @@
     "password": "chakua",
     "expiresAt": "2025-8-30",
     "allowOffline": false
-  },
-  {
-    "id": "tgfdgjjgjhhjh6",
-    "username": "anatoly",
-    "password": "anatoly",
-    "expiresAt": "2025-6-8",
-    "allowOffline": false
   }
 ]
