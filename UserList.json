@@ -54,5 +54,12 @@
     "password": "hamisi",
     "expiresAt": "2025-8-30",
     "allowOffline": false
+  },
+  {
+    "id": "9c01e2f2c3721f51",
+    "username": "bashiru",
+    "password": "chandama",
+    "expiresAt": "2025-8-31",
+    "allowOffline": false
   }
 ]
